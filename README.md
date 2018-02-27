@@ -9,8 +9,11 @@ This project is command line shopping app developed in node js technology.Here w
 
 User can do shopping by seeing all the products available in the store in tabular form.
 
-Admin can add a new product,he can add by checking lo inventory
+Admin can add a new product,he can add by checking lo inventory.
+
+#Technologies Used: Node Js,Mysql
+#npm packages: inquirer,readline,mysql,cli-table-redemption.
 
 #App Demo:
 
-![Working Gif](./images/Feb-26-2018 22-02-09.gif | width=100)
+![Working Gif](./images/Feb-26-2018 22-02-09.gif)
