@@ -21,4 +21,7 @@ inquirer.prompt([
 
 	function productsSalesByDepart(){
 		
+
+
+
 	}

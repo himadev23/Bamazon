@@ -16,4 +16,5 @@ Admin can add a new product,he can add by checking lo inventory.
 
 #App Demo:
 
+<img src='./images/Feb-26-2018 22-02-09.gif'>
 ![Working Gif](./images/Feb-26-2018 22-02-09.gif)
